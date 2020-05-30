@@ -1,0 +1,11 @@
+{
+  "name": "whells-app",
+  "version": "0.1.0",
+  "description": "simple graphql bff server",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BK",
+  "license": "ISC"
+}
